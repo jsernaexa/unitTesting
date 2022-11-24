@@ -1,9 +1,10 @@
 ﻿using DemoUnitTest.ServiceModel;
+using System.Threading.Tasks;
 
 namespace DemoUnitTest.Services
 {
     public interface IGenderApiService
     {
-        GenderPrediction GetGender();
+        Task<GenderPrediction> GetGenderPrediction(string name);
     }
 }

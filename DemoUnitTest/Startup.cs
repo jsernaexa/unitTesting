@@ -30,12 +30,13 @@ namespace DemoUnitTest
             {
                 client.BaseAddress = new Uri(Configuration["CatsBaseUrl"]);
             });
-            services.AddHttpClient<IGenderApiService, IGenderApiService>(client =>
+            services.AddHttpClient<IGenderApiService, GenderApiService>(client =>
             {
                 client.BaseAddress = new Uri(Configuration["GenderBaseUrl"]);
             });
 
             services.AddTransient<ICatService, CatService>();
+            services.AddTransient<IGenderService, GenderService>();
             services.AddControllers();
         }
 

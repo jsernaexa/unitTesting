@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jonathan\\Documents\\GitHub\\UnitTest\\UnitTestDemo\\DemoUnitTest\\DemoUnitTest.csproj": {}
+    "C:\\Users\\Jonathan\\Documents\\GitHub\\UnitTest\\unitTesting\\DemoUnitTest\\DemoUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jonathan\\Documents\\GitHub\\UnitTest\\UnitTestDemo\\DemoUnitTest\\DemoUnitTest.csproj": {
+    "C:\\Users\\Jonathan\\Documents\\GitHub\\UnitTest\\unitTesting\\DemoUnitTest\\DemoUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jonathan\\Documents\\GitHub\\UnitTest\\UnitTestDemo\\DemoUnitTest\\DemoUnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\Jonathan\\Documents\\GitHub\\UnitTest\\unitTesting\\DemoUnitTest\\DemoUnitTest.csproj",
         "projectName": "DemoUnitTest",
-        "projectPath": "C:\\Users\\Jonathan\\Documents\\GitHub\\UnitTest\\UnitTestDemo\\DemoUnitTest\\DemoUnitTest.csproj",
+        "projectPath": "C:\\Users\\Jonathan\\Documents\\GitHub\\UnitTest\\unitTesting\\DemoUnitTest\\DemoUnitTest.csproj",
         "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jonathan\\Documents\\GitHub\\UnitTest\\UnitTestDemo\\DemoUnitTest\\obj\\",
+        "outputPath": "C:\\Users\\Jonathan\\Documents\\GitHub\\UnitTest\\unitTesting\\DemoUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
